@@ -15,7 +15,8 @@
       "postcss": "^8.1.7",
       "postcss-modules": "^3.2.2",
       "pug": "^3.0.0",
-      "sass": "^1.29.0"
+      "sass": "^1.29.0",
+      "normalize.css": "^8.0.1"
    },
    "browserslist": [
       "> 1%",
@@ -26,5 +27,8 @@
       "presets": [
          "@babel/preset-env"
       ]
+   },
+   "dependencies": {
+      "bootstrap": "^4.5.3"
    }
 }

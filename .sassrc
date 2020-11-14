@@ -1,0 +1,9 @@
+{
+   "includePaths": [
+      "node_modules",
+      "src/assets/styles/utilities",
+      "src/assets/styles/layouts",
+      "src/assets/styles/sections",
+      "src/assets/styles/components"
+   ]
+}

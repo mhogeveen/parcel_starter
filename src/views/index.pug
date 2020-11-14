@@ -1,12 +1,14 @@
-extends default.pug
+extends _default.pug
 
-include mixins/_header
-include mixins/_footer
+include layouts/_header
+include layouts/_footer
 
 block content
 
    +header
 
-   main Main
+   main
+      section
+         div.container Main
 
    +footer
