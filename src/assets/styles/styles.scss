@@ -11,9 +11,9 @@
 @use './utilities/mixins';
 
 // Import layouts
-@use 'header';
-@use 'footer';
-@use 'general';
+@use './layouts/header';
+@use './layouts/footer';
+@use './layouts/sections';
 
 // Import sections
 
